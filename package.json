@@ -6,6 +6,8 @@
         "url": "https://github.com/Laratipsofficial/vs-code-utilities-for-laravel.git"
     },
     "version": "1.0.0",
+    "pricing": "Free",
+    "publisher": "laratips",
     "engines": {
         "vscode": "^1.75.0"
     },
