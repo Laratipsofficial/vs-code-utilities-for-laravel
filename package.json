@@ -2,6 +2,9 @@
     "name": "laravel-utils",
     "displayName": "Laravel Utils",
     "description": "Utilities for Laravel",
+    "repository": {
+        "url": "https://github.com/Laratipsofficial/vs-code-utilities-for-laravel.git"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.75.0"
