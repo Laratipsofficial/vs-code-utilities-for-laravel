@@ -2,7 +2,7 @@
     "name": "laravel-utils",
     "displayName": "Laravel Utils",
     "description": "Utilities for Laravel",
-    "icon": "images/laratips-logo.png",
+    "icon": "images/icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/Laratipsofficial/vs-code-utilities-for-laravel.git"
